@@ -1,3 +1,7 @@
+import main.java.model.PackageType;
+import main.java.model.User;
+import main.java.model.Venue;
+
 import java.time.LocalDate;
 import java.util.Scanner;
 

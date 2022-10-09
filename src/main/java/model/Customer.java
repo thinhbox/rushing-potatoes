@@ -1,3 +1,4 @@
+package main.java.model;
 
 public class Customer {
 	private int contactNumber;

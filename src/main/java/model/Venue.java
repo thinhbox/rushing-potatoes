@@ -1,3 +1,5 @@
+package main.java.model;
+
 import java.io.*;
 import java.time.LocalDate;
 
